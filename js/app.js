@@ -48,8 +48,6 @@ function formatSeconds(seconds) {
                 <img class="invert img" src="img/music.svg" alt="">
                 <div class="artinfo">
                     <div>${decodeURIComponent(song).replaceAll("(256k)","").replaceAll("_"," ").replaceAll(".mp3","").replaceAll(" [NCS Release]","")}</div>
-                    </br>
-                    <h2 id ="nam">Santosh</h2>
                 </div>
                 <div class="playnow flex items-center">
                     <span>Play Now</span>
