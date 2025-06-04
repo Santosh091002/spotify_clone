@@ -53,7 +53,6 @@ function formatSeconds(seconds) {
                     <span>Play Now</span>
                     <img class="invert" src="img/playbtn.svg" alt="">
                 </div>
-                    <
             </li>`;
         }
     
